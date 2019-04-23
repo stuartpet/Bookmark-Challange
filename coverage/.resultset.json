@@ -1,7 +1,29 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/stuartpethurst/Projects/Bookmark-Challange/spec/features/viewing_bookmarks_spec.rb": [
+      "/Users/stuartpethurst/Projects/Bookmark-Challange/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/stuartpethurst/Projects/Bookmark-Challange/spec/features/Viewing_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/stuartpethurst/Projects/Bookmark-Challange/spec/features/index_test_spec.rb": [
         1,
         1,
         1,
@@ -10,6 +32,6 @@
         null
       ]
     },
-    "timestamp": 1556028359
+    "timestamp": 1556032493
   }
 }
