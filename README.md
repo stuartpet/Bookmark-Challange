@@ -30,4 +30,9 @@ Many to Many Relationships
 Registration
 Authentication
 
-Use Rspec, Sinatra, Capybara, SQL 
+Use Rspec, Sinatra, Capybara, SQL
+
+User Stories -
+1: As a User I want to be able to see a list of my bookmarks.
+So that I can be taken to a bookmarked site I want to click on a bookmark
+I want to be able to access bookmarked sites quickly without doing another search   
