@@ -10,29 +10,29 @@ Build it by working through the sequence of challenges. As you go on, we will be
 
 Challenges
 
-Creating User Stories
-Setting up a Web Project
-Viewing bookmarks
-Setting up a Database
-Creating your First Table
-Manipulating Table Data
-Interacting with Postgres from Ruby
-Upgrading your Toolset
-Setting up a Testing Environment
-Creating bookmarks
-Wrapping Database data in program objects
-Deleting bookmarks
-CRUD
-Extracting a Database Setup object
-Validating bookmarks
-One to Many Relationships
-Many to Many Relationships
-Registration
-Authentication
+*Creating User Stories
+*Setting up a Web Project
+*Viewing bookmarks
+*Setting up a Database
+*Creating your First Table
+*Manipulating Table Data
+*Interacting with Postgres from Ruby
+*Upgrading your Toolset
+*Setting up a Testing Environment
+*Creating bookmarks
+*Wrapping Database data in program objects
+*Deleting bookmarks
+*CRUD
+*Extracting a Database Setup object
+*Validating bookmarks
+*One to Many Relationships
+*Many to Many Relationships
+*Registration
+*Authentication
 
 Use Rspec, Sinatra, Capybara, SQL
 
 User Stories -
-1: As a User I want to be able to see a list of my bookmarks.
+*As a User I want to be able to see a list of my bookmarks.
 So that I can be taken to a bookmarked site I want to click on a bookmark
 I want to be able to access bookmarked sites quickly without doing another search   
