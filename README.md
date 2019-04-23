@@ -33,6 +33,10 @@ Challenges
 Use Rspec, Sinatra, Capybara, SQL
 
 User Stories -
-*As a User I want to be able to see a list of my bookmarks.
+1: As a User I want to be able to see a list of my bookmarks.
 So that I can be taken to a bookmarked site I want to click on a bookmark
-I want to be able to access bookmarked sites quickly without doing another search   
+I want to be able to access bookmarked sites quickly without doing another search  
+
+2: As a time-pressed user
+So that I can save a website
+I would like to add the site's address and title to bookmark manager
