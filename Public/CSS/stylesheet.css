@@ -1,0 +1,38 @@
+body, html {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.container {
+  box-shadow: 10px 10px grey;
+  position: middle;
+  right: 10;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: yellow;
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:orange; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+.container {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 10s;
+}

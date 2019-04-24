@@ -1,5 +1,12 @@
+<head>
+<link href="<%= url('css/stylesheet.css') %>" rel="stylesheet" type="text/css" />
+<title>Bookmarks</title>
+</head>
+
+<div class="container" class="element">
 <ul>
   <% @bookmarks.each do |bookmark| %>
     <li><%= bookmark %></li>
   <% end %>
 </ul>
+</div>
